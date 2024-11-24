@@ -1,1 +1,56 @@
+¿Qué significa ITIL y cuál es su propósito? (3 pts)
+ITIL es una metodología que ayuda a las empresas a gestionar y ofrecer servicios de TI de manera eficiente y de calidad. El proposito
+de ITIL es:
+-Garantizar que los servicios tecnológicos se alineen con las necesidades de la organización y las expectativas del cliente.
+-Alinear la gestión de TI con la visión y estrategia de la empresa.
+-Actuar como un punto único de contacto entre el proveedor de servicios y los usuarios finales.
+Menciona tres principios fundamentales de ITIL. (3 pts)
+1.Centrarse en el valor.
+2.Empezar donde se está.
+3.Progresar de forma iterativa con la retroalimentación.
 
+¿Cuáles son los beneficios de implementar ITIL en una organización? (2 pts)
+-Mejorar el desempeño de los empleados.
+ITIL ayuda a organizar las actividades y procesos de los empleados, y a definir de manera más clara los roles y el desempeño de todo el equipo. 
+
+-Gestionar los servicios de TI de manera eficiente.
+ITIL permite a las organizaciones gestionar sus servicios de TI de manera efectiva, asegurando que estos sean alineados con las necesidades del negocio. 
+
+-Reducir los costos de soporte.
+ITIL puede ayudar a reducir los costos de soporte en un 30%. 
+
+-Aumentar el número de incidentes resueltos en la primera llamada.
+ITIL puede ayudar a aumentar el número de incidentes resueltos en la primera llamada en un 20%. 
+
+-Mejorar la gestión de proveedores.
+ITIL permite definir los niveles de servicio que necesita cada componente de los servicios de TI, lo que ayuda a alinear el área de TI con sus proveedores. 
+
+-Alinear los departamentos de TI y negocios.
+ITIL ayuda a alinear dos departamentos dentro de la empresa que normalmente operan de forma aislada: TI y negocios. 
+
+Describe las cinco etapas del ciclo de vida del servicio según ITIL. (3 pts)
+1.Estrategia del servicio ITIL.
+Es un marco que ayuda a las organizaciones de TI a definir qué servicios ofrecer, a quiénes y cómo, para que se alineen con los objetivos de la empresa y 
+las necesidades de los clientes.
+
+2.Diseño del servicio ITIL.
+Es la segunda etapa del ciclo de vida del servicio y se encarga de crear un anteproyecto de las prestaciones de TI. El objetivo de esta etapa es que los servicios
+sean eficaces y cumplan con los requisitos de la etapa anterior, la estrategia de servicio.
+
+3.Transición del servicio ITIL.
+Es la etapa del ciclo de vida de ITIL que se encarga de transformar un cambio aprobado en un servicio completo e integrado en el entorno de producción.
+
+4.Operación del servicio ITIL.
+Es la etapa del ciclo de vida de un servicio de TI que se encarga de garantizar que los servicios se presten de manera eficiente y eficaz. 
+
+5.Mejora continua del servicio ITIL.
+Es una etapa del ciclo de vida de ITIL que busca alinear los servicios de TI con las necesidades de la empresa. Para ello, se evalúan y mejoran continuamente
+los elementos que intervienen en la gestión de productos y servicios. 
+
+¿Qué importancia tiene la "Mejora Continua del Servicio" en ITIL? (2 pts)
+Es una de las etapas más importantes en el ciclo de vida del servicio según ITIL, ya que se centra en la optimización constante de los servicios de TI para 
+alinearlos mejor con las necesidades cambiantes del negocio y de los usuarios. 
+
+¿Por qué ITIL se considera un marco de trabajo valioso para las organizaciones? (2 pts)
+ITIL es un marco de trabajo valioso para las organizaciones porque les ayuda a mejorar sus capacidades de TI y a adaptarse a las necesidades del mercado. ITIL, o 
+Information Technology Infrastructure Library, es un conjunto de procedimientos y mejores prácticas para la gestión de servicios de TI
