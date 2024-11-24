@@ -1,10 +1,16 @@
 ¿Sabe la diferencia entre un repositorio de proyectos y un software de control de versiones¨? explique brevemente máximo 4 lineas. (2 puntos)
-
+Un repositorio de proyectos es el espacio donde se guarda el código y las modificaciones realizadas, mientras que un software de control de versiones
+es la herramienta que permite monitorear y registrar los cambios en el código a lo largo del tiempo.
 
 ¿Qué es git y para que sirve? (2 puntos)
-
+Git es una herramienta de control de versiones de código abierto que facilita a los desarrolladores gestionar las versiones de sus proyectos. Es ampliamente 
+utilizado en la comunidad de desarrollo de software debido a su flexibilidad, rapidez y capacidad para manejar proyectos grandes.
 
 que otro programa de control de versiones conoce mencione 2 (2 pts)
-
+1. GitLab
+2. AWS CodeCommit
 
 ¿Qué es github y para qué sirve? (2 puntos)
+
+GitHub es una plataforma que te permite guardar, compartir y colaborar con otros en la escritura de código. Al guardar tu código en un repositorio en GitHub, 
+puedes: mostrar o distribuir tu trabajo, así como hacer un seguimiento y controlar los cambios realizados en el código.
