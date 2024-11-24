@@ -1,1 +1,56 @@
+¿Qué es un SGSI? (3 pts)
+Un SGSI, o Sistema de Gestión de Seguridad de la Información, es un conjunto de 
+procedimientos y políticas que ayudan a administrar la seguridad de la información en una organización.
 
+¿Cuáles son los tres pilares de la seguridad de la información? (3 pts)
+Los tres pilares de la seguridad de la información son la confidencialidad, la integridad y la disponibilidad: 
+1.Confidencialidad:
+Garantiza que la información solo sea accesible para personas autorizadas. 
+
+2.Integridad:
+Salvaguarda la exactitud de la información, evitando que sea modificada o eliminada. 
+
+3.Disponibilidad:
+Garantiza que la información esté disponible cuando se necesite, siguiendo los procesos correctos.
+
+¿Qué describe la norma ISO 27001? (3 pts)
+La norma ISO 27001 describe un sistema de gestión de la seguridad de la información (SGSI) que ayuda a las 
+organizaciones a proteger la confidencialidad, integridad y disponibilidad de sus datos. 
+
+¿Qué diferencia hay entre el "qué" y el "cómo" en la ISO 27001? (3 pts)
+La norma ISO 27001 se centra en el "qué" de la seguridad de la información, es decir, en los requisitos y controles 
+para proteger y conservar la información, mientras que el "cómo" se aborda en otras normas, como la ISO 27002.
+
+¿En qué se basa el SGSI según la ISO 27001? (3 pts)
+El Sistema de Gestión de Seguridad de la Información (SGSI) se basa en la norma ISO/IEC 27001 en los siguientes aspectos:
+
+-Proceso de control de riesgos:
+ El SGSI se basa en un proceso de control de riesgos que garantiza la confidencialidad, integridad y disponibilidad de la información. 
+
+-Teoría de gestión de la calidad PDCA:
+ La norma se basa en la teoría de gestión de la calidad PDCA, también conocida como ciclo de Deming. 
+
+-Componentes esenciales:
+ Los componentes esenciales de un SGSI son la confidencialidad, integridad y disponibilidad. 
+
+¿Qué son los controles en la ISO 27001 y dónde se encuentran? (3 pts)
+Son un conjunto de medidas y prácticas que las organizaciones implementan para proteger la confidencialidad, 
+integridad y disponibilidad de la información.
+
+Se encuentran en el Anexo A de la norma ISO/IEC 27001:2022, y están agrupados en 14 secciones:
+-Políticas de seguridad de la información
+-Organización de la seguridad de la información
+-Seguridad de los recursos humanos
+-Gestión de activos
+-Controles de acceso
+-Criptografía
+-Seguridad física y ambiental
+-Seguridad operacional
+-Seguridad de las comunicaciones
+-Adquisición, desarrollo y mantenimiento del sistema
+-Gestión de incidentes de seguridad de la información
+-Cumplimiento 
+
+¿Por qué es importante el apoyo de la alta dirección? (2 pts)
+El apoyo de la alta dirección es importante en cualquier actuación corporativa, ya que es la principal figura de liderazgo de la organización. 
+Su compromiso y orientación son necesarios para el logro de los objetivos de la empresa.
